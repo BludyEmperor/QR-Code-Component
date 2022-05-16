@@ -1,0 +1,21 @@
+@media (max-width: 375px) {
+  .qr-code-component {
+    width: 20rem;
+  }
+
+  .qr-code-img {
+    width: 18rem;
+  }
+
+  .text-content {
+    padding: 0 1.2rem 1.2rem 1.2rem;
+  }
+
+  .title {
+    font-size: 1.2rem;
+  }
+
+  .description {
+    font-size: 1rem;
+  }
+}
